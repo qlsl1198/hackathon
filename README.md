@@ -52,17 +52,17 @@ php -S localhost:8000
 ## 실행 결과 스크린샷
 
 ### 프로필 입력 폼
-![프로필 입력 폼](./images/profile_form.png)
+![프로필 입력 폼](https://github.com/qlsl1198/hackathon/blob/main/KakaoTalk_Photo_2024-01-21-19-29-31%20001.png?raw=true)
 
 ### AI 상담 채팅
-![채팅1](./images/chat1.png)
-![채팅2](./images/chat2.png)
+![채팅1](https://github.com/qlsl1198/hackathon/blob/main/KakaoTalk_Photo_2024-01-21-19-29-31%20002.png?raw=true)
+![채팅2](https://github.com/qlsl1198/hackathon/blob/main/KakaoTalk_Photo_2024-01-21-19-29-31%20003.png?raw=true)
 
 ### 지출 입력 폼
-![지출 입력](./images/expenses.png)
+![지출 입력](https://github.com/qlsl1198/hackathon/blob/main/KakaoTalk_Photo_2024-01-21-19-29-31%20004.png?raw=true)
 
 ### AI 분석 결과
-![분석 결과](./images/chat3.png)
+![분석 결과](https://github.com/qlsl1198/hackathon/blob/main/KakaoTalk_Photo_2024-01-21-19-29-31%20005.png?raw=true)
 
 ## 라이선스
 This project is licensed under the MIT License - see the LICENSE file for details
