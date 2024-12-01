@@ -1,0 +1,24 @@
+{
+    "gender": "male",
+    "job": "무직",
+    "incomeType": "monthly",
+    "income": 1000000,
+    "mbti": "ISTJ",
+    "fixedExpenses": {
+        "housing": 0,
+        "utilities": 0,
+        "insurance": 0,
+        "subscriptions": 0
+    },
+    "variableExpenses": {
+        "food": 0,
+        "transportation": 0,
+        "entertainment": 0,
+        "emergency": 0
+    },
+    "savings": {
+        "savingsRatio": 0,
+        "investmentRatio": 0,
+        "investmentTypes": []
+    }
+}
