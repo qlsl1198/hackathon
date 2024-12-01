@@ -52,17 +52,17 @@ php -S localhost:8000
 ## 실행 결과 스크린샷
 
 ### 프로필 입력 폼
-![프로필 입력 폼](result1.png)
+![프로필 입력 폼](images/result1.png)
 
 ### AI 상담 채팅
-![채팅1](result2.png)
-![채팅2](result3.png)
+![채팅1](images/result2.png)
+![채팅2](images/result3.png)
 
 ### 지출 입력 폼
-![지출 입력](result4.png)
+![지출 입력](images/result4.png)
 
 ### AI 분석 결과
-![분석 결과](result5.png)
+![분석 결과](images/result5.png)
 
 ## 라이선스
 This project is licensed under the MIT License - see the LICENSE file for details
