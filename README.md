@@ -52,17 +52,17 @@ php -S localhost:8000
 ## 실행 결과 스크린샷
 
 ### 프로필 입력 폼
-![프로필 입력 폼](KakaoTalk_Photo_2024-12-01-23-45-04-1.png)
+![프로필 입력 폼](result1.png)
 
 ### AI 상담 채팅
-![채팅1](KakaoTalk_Photo_2024-12-01-23-45-04-2.png)
-![채팅2](KakaoTalk_Photo_2024-12-01-23-45-04-3.png)
+![채팅1](result2.png)
+![채팅2](result3.png)
 
 ### 지출 입력 폼
-![지출 입력](KakaoTalk_Photo_2024-12-01-23-45-04-4.png)
+![지출 입력](result4.png)
 
 ### AI 분석 결과
-![분석 결과](KakaoTalk_Photo_2024-12-01-23-45-04-5.png)
+![분석 결과](result5.png)
 
 ## 라이선스
 This project is licensed under the MIT License - see the LICENSE file for details
